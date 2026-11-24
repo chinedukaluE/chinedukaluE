@@ -1,4 +1,4 @@
-<img src="https://chinedukalue.github.io/assets/chinedu.jpg" alt="Chinedu Kalu Emmanuel" width="150" align="right">
+<img src="https://chinedukalue.github.io/assets/chinedu-square.jpg" alt="Chinedu Kalu Emmanuel" width="140" height="140" align="right">
 
 # Hi, I'm Chinedu
 
