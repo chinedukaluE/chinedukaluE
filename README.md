@@ -2,9 +2,9 @@
 
 # Hi, I'm Chinedu
 
-I'm a **content marketer, SEO strategist and web builder** in Lagos, Nigeria. Teams bring me in when strategy, writing and the website all need doing, and nobody's joining them up.
+I'm a **content marketer, SEO strategist and web builder**. Teams bring me in when strategy, writing and the website all need doing, and nobody's joining them up.
 
-I'm co-founder of **Techdella Solutions Limited**, founding CMO at **Startbuddi**, and open to senior content, SEO and growth marketing roles, remote or hybrid.
+I'm co-founder of **Techdella Solutions Limited**, founding partner and SEO manager at **Startbuddi**, and open to senior content, SEO and growth marketing roles, remote.
 
 **Portfolio:** [chinedukalue.github.io](https://chinedukalue.github.io) · **Articles:** [chinedukalue.github.io/articles](https://chinedukalue.github.io/articles.html) · **LinkedIn:** [/in/emmanuelkc](https://www.linkedin.com/in/emmanuelkc)
 
