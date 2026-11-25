@@ -33,4 +33,4 @@ I'm co-founder of **Techdella Solutions Limited**, founding partner and SEO mana
 - [`chinedukaluE.github.io`](https://github.com/chinedukaluE/chinedukaluE.github.io): my portfolio and articles, hand-built in HTML and CSS with a Jekyll blog
 - New articles on content, SEO and growth marketing are published here regularly
 
-**Email:** chinedukaluibems@gmail.com
+**Email:** d.chinedukalu@gmail.com
